@@ -1,6 +1,5 @@
 public class Bull {
 
-    public class Bull {
 
         public String breed;
         public int age;
@@ -34,5 +33,5 @@ public class Bull {
     }
 
 
-}
+
 

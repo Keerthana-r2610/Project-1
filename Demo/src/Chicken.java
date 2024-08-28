@@ -1,5 +1,4 @@
-public class Chicken
-{
+
     public class Chicken {
 
         public String breed;
@@ -39,4 +38,4 @@ public class Chicken
         }
     }
 
-}
+

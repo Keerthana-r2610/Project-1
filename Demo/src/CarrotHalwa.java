@@ -1,4 +1,3 @@
-public class CarrotHalwa {
 
     public class CarrotHalwa extends Halwa{
 
